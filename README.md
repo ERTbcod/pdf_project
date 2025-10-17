@@ -1,10 +1,6 @@
 # PDF Project: Gerador de Relatórios com PHP e mPDF
 
-![Status](https://img.shields.io/badge/status-concluído-brightgreen)
-
-![Linguagem](https://img.shields.io/badge/linguagem-PHP-blue)
-
-![Library](https://img.shields.io/badge/library-mPDF-red)
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)    ![Linguagem](https://img.shields.io/badge/linguagem-PHP-blue)    ![Library](https://img.shields.io/badge/library-mPDF-red)
 
 Este é um projeto de estudo desenvolvido para explorar a geração de documentos PDF de forma dinâmica utilizando PHP e a poderosa biblioteca **mPDF**.
 
