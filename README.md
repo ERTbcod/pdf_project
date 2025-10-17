@@ -28,13 +28,19 @@ Este projeto serviu como um primeiro contato com a manipulação de PDFs no back
 ## 🛠️ Tecnologias Utilizadas
 
 * **Back-end:**
+  
     ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  
 * **Biblioteca:**
     -   **mPDF:** Para a conversão de HTML/CSS para PDF.
 * **Gerenciador de Pacotes:**
+  
     ![Composer](https://img.shields.io/badge/Composer-885610?style=for-the-badge&logo=Composer&logoColor=white)
+  
 * **Marcação e Estilo (para o template do PDF):**
+  
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
