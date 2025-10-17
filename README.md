@@ -45,7 +45,7 @@ Para rodar este projeto, você precisará de um ambiente de servidor local (como
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/pdf_project.git](https://github.com/seu-usuario/pdf_project.git)
+    git clone [https://github.com/ERTbcod/pdf_project.git](https://github.com/ERTbcod/pdf_project.git)
     ```
 
 2.  **Navegue até a pasta do projeto:**
